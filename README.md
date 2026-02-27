@@ -75,12 +75,8 @@ Improving delivery speed and consistency would likely reduce negative reviews an
 
 ## Repository Structure
 
-sql/ SQL -  Analysis queries
-notebooks/ - Data loading scripts
-powerbi/  - Dashboard screenshots
-README.md - Project description
+# sql/ SQL -  Analysis queries
+# notebooks/ - Data loading scripts
+# powerbi/  - Dashboard screenshots
+# README.md - Project description
 
-sql/ SQL analysis queries
-notebooks/ Data loading scripts
-powerbi/ Dashboard screenshots
-README.md Project description
