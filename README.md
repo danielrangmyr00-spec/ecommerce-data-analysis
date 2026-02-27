@@ -63,7 +63,7 @@ Improving delivery speed and consistency would likely reduce negative reviews an
 ## Dashboard Preview
 
 ### Overview
-![Dashboard Overview](powerbi/dashboard_overview.png)
+![Dashboard Overview](powerbi/dash_overview.png)
 
 ### Delivery Performance vs Customer Satisfaction
 ![Delivery vs Reviews](powerbi/delivery_vs_reviews.png)
